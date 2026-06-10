@@ -12,8 +12,8 @@ const links = [
   { label: 'Equipe', href: '#equipe' },
   { label: 'Tratamentos', href: '#tratamentos' },
   { label: 'Localização', href: '#localizacao' },
-  { label: 'FAQ', href: '#faq' },
   { label: 'Contato', href: '#localizacao' },
+  { label: 'FAQ', href: '#faq' },
 ]
 
 export default function Navbar() {
