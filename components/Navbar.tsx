@@ -13,7 +13,7 @@ const links = [
   { label: 'Tratamentos', href: '#tratamentos' },
   { label: 'Localização', href: '#localizacao' },
   { label: 'FAQ', href: '#faq' },
-  { label: 'Contato', href: '#contato' },
+  { label: 'Contato', href: '#localizacao' },
 ]
 
 export default function Navbar() {
